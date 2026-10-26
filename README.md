@@ -10,7 +10,7 @@ Darsdagi notebooklar. Tugmani bosing — notebook Google Colab'da ochiladi.
 ## Qanday ishlanadi
 
 1. Tugmani bosing — notebook Colab'da ochiladi.
-2. **File → Save a copy in Drive** ni bosing. Yangi oynada sizning nusxangiz ochiladi.
+2. Tepadagi **Copy to Drive** (ruscha: **Копировать на Диск**) tugmasini bosing. Yangi oynada sizning nusxangiz ochiladi.
 3. Faqat shu nusxada ishlang — yozganlaringiz Google Drive'ingizda saqlanadi.
 
 ## Ma'lumot manbasi
