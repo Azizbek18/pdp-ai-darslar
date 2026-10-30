@@ -6,7 +6,7 @@ Darsdagi notebooklar. Tugmani bosing — notebook Google Colab'da ochiladi.
 |---|---|
 | 1-oy, 1-dars: Qoidadan o’rganishga — noldan raqam tanuvchi | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Azizbek18/pdp-ai-darslar/blob/main/1-oy/01-dars/amaliyot.ipynb) |
 | 1-oy, 2-dars: numpy — AI matematikasi kodda | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Azizbek18/pdp-ai-darslar/blob/main/1-oy/02-dars/amaliyot.ipynb) |
-| 1-oy, 3-dars: pandas va vizualizatsiya — ma’lumotni tushunish | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Azizbek18/pdp-ai-darslar/blob/main/1-oy/03-dars/amaliyot.ipynb) |
+| 1-oy, 3-dars: jadval bilan ishlash — pandas va grafiklar | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Azizbek18/pdp-ai-darslar/blob/main/1-oy/03-dars/amaliyot.ipynb) |
 | Diagnostika — amaliy topshiriq | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Azizbek18/pdp-ai-darslar/blob/main/diagnostika/amaliy.ipynb) |
 
 ## Qanday ishlanadi
