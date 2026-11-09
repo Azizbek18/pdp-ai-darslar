@@ -9,6 +9,7 @@ Darsdagi notebooklar. Tugmani bosing — notebook Google Colab'da ochiladi.
 | 1-oy, 3-dars: jadval bilan ishlash — pandas va grafiklar | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Azizbek18/pdp-ai-darslar/blob/main/1-oy/03-dars/amaliyot.ipynb) |
 | 1-oy, 4-dars: birinchi modellar — kompyuter taxmin qilishni o’rganadi | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Azizbek18/pdp-ai-darslar/blob/main/1-oy/04-dars/amaliyot.ipynb) |
 | 1-oy, 5-dars: model qanday o’rganadi — xato o’lchovi va «tog’dan tushish» | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Azizbek18/pdp-ai-darslar/blob/main/1-oy/05-dars/amaliyot.ipynb) |
+| 1-oy, 6-dars: neyron tarmoq — xato orqaga qanday qaytadi | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Azizbek18/pdp-ai-darslar/blob/main/1-oy/06-dars/amaliyot.ipynb) |
 | Diagnostika — amaliy topshiriq | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Azizbek18/pdp-ai-darslar/blob/main/diagnostika/amaliy.ipynb) |
 
 ## Qanday ishlanadi
