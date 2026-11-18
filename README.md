@@ -12,6 +12,7 @@ Darsdagi notebooklar. Tugmani bosing — notebook Google Colab'da ochiladi.
 | 1-oy, 6-dars: neyron tarmoq — xato orqaga qanday qaytadi | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Azizbek18/pdp-ai-darslar/blob/main/1-oy/06-dars/amaliyot.ipynb) |
 | 1-oy, 7-dars: PyTorch — telefon qo’lyozma raqamni qanday taniydi? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Azizbek18/pdp-ai-darslar/blob/main/1-oy/07-dars/amaliyot.ipynb) |
 | 1-oy, 8-dars: CNN — kompyuter rasmni qanday «ko’radi»? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Azizbek18/pdp-ai-darslar/blob/main/1-oy/08-dars/amaliyot.ipynb) |
+| 1-oy, 9-dars: Transfer learning — tayyor «ko’z»ni o’z rasmlaringizga o’rgatamiz | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Azizbek18/pdp-ai-darslar/blob/main/1-oy/09-dars/amaliyot.ipynb) |
 | Diagnostika — amaliy topshiriq | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Azizbek18/pdp-ai-darslar/blob/main/diagnostika/amaliy.ipynb) |
 
 ## Qanday ishlanadi
